@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74265d05-3a35-496e-8b7a-1a7f44f02421" name="Default Changelist" comment="с WS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604840727441</updated>
-      <workItem from="1604840728944" duration="2879000" />
+      <workItem from="1604840728944" duration="4466000" />
     </task>
     <task id="LOCAL-00001" summary="с WS">
       <created>1604841475461</created>
@@ -90,10 +92,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.2560.1040@0.0.1920.1040" timestamp="1604841458247" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604844366993">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604849234433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1040@0.0.1920.1040" timestamp="1604844366993" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1040@0.0.1920.1040" timestamp="1604849234433" />
     <state x="742" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604841233859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
