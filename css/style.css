@@ -18,5 +18,13 @@
 
 h4 {
   font-family: "JetBrainsMono-Regular", sans-serif;
-  font-size: 50px;
+  font-size: 45px;
+}
+h3 {
+  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-size: 30px;
+}
+h1 {
+  font-family: "JetBrainsMono-Regular", sans-serif;
+  font-size: 60px;
 }
