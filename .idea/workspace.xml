@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74265d05-3a35-496e-8b7a-1a7f44f02421" name="Default Changelist" comment="с WS">
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604840727441</updated>
-      <workItem from="1604840728944" duration="1947000" />
+      <workItem from="1604840728944" duration="2879000" />
     </task>
     <task id="LOCAL-00001" summary="с WS">
       <created>1604841475461</created>
