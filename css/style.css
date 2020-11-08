@@ -11,6 +11,7 @@
   font-style: normal;
   font-display: swap;
 }*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 * {
   margin: 0;
@@ -20,14 +21,14 @@
 }
 
 h4 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 45px;
 }
 h3 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
 }
 h1 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 50px;
 }
