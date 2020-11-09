@@ -1,18 +1,3 @@
-/*font-face {
-  font-family: "JetBrains Mono";
-  src: url("/fonts/JetBrainsMono-Regular.eot");
-  src: url("/fonts/JetBrainsMono-Regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("/fonts/JetBrainsMono-Regular.woff2") format("woff2"),
-    url("/fonts/JetBrainsMono-Regular.woff") format("woff"),
-    url("/fonts/JetBrainsMono-Regular.ttf") format("truetype"),
-    url("/fonts/JetBrainsMono-Regular.svg#JetBrainsMono-Regular") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}*/
-/*@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");*/
-
 html {
   margin: 0;
   padding: 0;
