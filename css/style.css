@@ -31,6 +31,9 @@ h4 {
   padding: 0;
   box-sizing: border-box;
 }
+h4 {
+  letter-spacing: 0.2em;
+}
 
 input {
   font-family: "Fjalla One", sans-serif;
