@@ -11,14 +11,14 @@
   font-style: normal;
   font-display: swap;
 }*/
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");*/
 
 html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 
-  font-family: "Open Sans", sans-serif;
+  font-family: "Aqum", sans-serif;
 }
 *,
 *:after,
@@ -27,15 +27,15 @@ html {
 }
 
 h4 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Aqum", sans-serif;
   font-size: 45px;
 }
 h3 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Aqum", sans-serif;
   font-size: 30px;
 }
 h1 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Aqum", sans-serif;
   font-size: 50px;
 }
 

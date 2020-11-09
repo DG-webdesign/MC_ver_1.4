@@ -1,13 +1,12 @@
 @font-face {
-  font-family: "JetBrains Mono";
-  src: url("/fonts/JetBrainsMono-Regular.eot");
-  src: url("/fonts/JetBrainsMono-Regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("/fonts/JetBrainsMono-Regular.woff2") format("woff2"),
-    url("/fonts/JetBrainsMono-Regular.woff") format("woff"),
-    url("/fonts/JetBrainsMono-Regular.ttf") format("truetype"),
-    url("/fonts/JetBrainsMono-Regular.svg#JetBrainsMono-Regular") format("svg");
+  font-family: "Aqum";
+  src: url("/fonts/Aqum.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/Aqum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("/fonts/Aqum.otf") format("opentype"),
+    /* Open Type Font */ url("/fonts/Aqum.svg") format("svg"),
+    /* Legacy iOS */ url("/fonts/Aqum.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("/fonts/Aqum.woff") format("woff"),
+    /* Modern Browsers */ url("/fonts/Aqum.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
