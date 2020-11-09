@@ -2,6 +2,7 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border: none;
 
   font-family: "Fjalla One", sans-serif;
 }
@@ -37,7 +38,37 @@ h4 {
 
 input {
   font-family: "Fjalla One", sans-serif;
+  padding: 0;
+  border-width: 1;
+  border-style: 0;
+  border-color: lightsteelblue;
+  width: 159px;
+  height: 48px;
+  font-size: 28px;
+  background-color: mediumblue;
+  color: white;
 }
 .btn {
   font-family: "Fjalla One", sans-serif;
+}
+
+::-webkit-input-placeholder {
+  color: rgb(97, 163, 207);
+  font-family: "Fjalla One";
+  font-size: 22px;
+}
+::-moz-placeholder {
+  color: rgb(97, 163, 207);
+  font-family: "Fjalla One";
+  font-size: 22px;
+}
+:-ms-input-placeholder {
+  color: rgb(97, 163, 207);
+  font-family: "Fjalla One";
+  font-size: 22px;
+}
+:-moz-placeholder {
+  color: rgb(97, 163, 207);
+  font-family: "Fjalla One";
+  font-size: 22px;
 }
