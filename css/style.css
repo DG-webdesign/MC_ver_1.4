@@ -18,7 +18,7 @@ html {
   padding: 0;
   box-sizing: border-box;
 
-  font-family: "Aqum", sans-serif;
+  font-family: "Fjalla One", sans-serif;
 }
 *,
 *:after,
@@ -27,15 +27,15 @@ html {
 }
 
 h4 {
-  font-family: "Aqum", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-size: 45px;
 }
 h3 {
-  font-family: "Aqum", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-size: 30px;
 }
 h1 {
-  font-family: "Aqum", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-size: 50px;
 }
 
@@ -45,4 +45,11 @@ h4 {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+input {
+  font-family: "Fjalla One", sans-serif;
+}
+.btn {
+  font-family: "Fjalla One", sans-serif;
 }
