@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74265d05-3a35-496e-8b7a-1a7f44f02421" name="Default Changelist" comment="с WS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74265d05-3a35-496e-8b7a-1a7f44f02421" name="Default Changelist" comment="с WS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dark_MC_DG" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604840727441</updated>
       <workItem from="1604840728944" duration="6455000" />
+      <workItem from="1604918825361" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="с WS">
       <created>1604841475461</created>
@@ -80,6 +79,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="с WS" />
@@ -90,6 +90,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.2560.1040@0.0.1920.1040" timestamp="1604841458247" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604918981857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1040@0.0.1920.1040" timestamp="1604918981857" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604849234433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
