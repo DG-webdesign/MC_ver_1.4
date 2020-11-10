@@ -12,6 +12,26 @@ html {
   box-sizing: inherit;
 }
 
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  text-align: center;
+}
+
+.block {
+  text-align: center;
+  margin: 30px;
+}
+
+.block_row {
+  display: inline-flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+}
+
 h4 {
   font-family: "Fjalla One", sans-serif;
   font-size: 45px;
@@ -42,33 +62,38 @@ input {
   border-width: 1;
   border-style: 0;
   border-color: lightsteelblue;
-  width: 159px;
+  width: 170px;
   height: 48px;
-  font-size: 28px;
-  background-color: mediumblue;
+  font-size: 25px;
+  background-color: rgb(55, 22, 109);
   color: white;
+  border-radius: 5px;
 }
 .btn {
   font-family: "Fjalla One", sans-serif;
+  width: 170px;
+  height: 48px;
+  padding: 0;
+  margin: 0;
 }
 
 ::-webkit-input-placeholder {
-  color: rgb(97, 163, 207);
+  color: rgb(52, 202, 202);
   font-family: "Fjalla One";
-  font-size: 22px;
+  font-size: 20px;
 }
 ::-moz-placeholder {
-  color: rgb(97, 163, 207);
+  color: rgb(52, 202, 202);
   font-family: "Fjalla One";
-  font-size: 22px;
+  font-size: 20px;
 }
 :-ms-input-placeholder {
-  color: rgb(97, 163, 207);
+  color: rgb(52, 202, 202);
   font-family: "Fjalla One";
-  font-size: 22px;
+  font-size: 20px;
 }
 :-moz-placeholder {
-  color: rgb(97, 163, 207);
+  color: rgb(52, 202, 202);
   font-family: "Fjalla One";
-  font-size: 22px;
+  font-size: 20px;
 }
